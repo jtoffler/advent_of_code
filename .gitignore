@@ -1,0 +1,5 @@
+data/*
+lib/jupyter/2020/.ipynb_checkpoints/*
+.DS_Store
+lib/.DS_Store
+lib/jupyter/.DS_Store
